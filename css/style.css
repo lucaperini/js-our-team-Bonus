@@ -1,0 +1,28 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-weight:700;
+    color:white;
+    font-size:15rem;
+}
+main{
+    width:100Vw;
+    background-image: url(../img/pattern.jpg);
+    background-repeat:space;
+    
+}
+
+.intro{
+    margin:0 auto;
+}
+
+.card{
+    width: 18rem;
+}
+
+#name{
+    line-height: 1.2rem;
+    margin-bottom:1rem;
+}
